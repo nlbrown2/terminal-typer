@@ -1,0 +1,4 @@
+.ccls
+a.out
+*.exe
+*.o
